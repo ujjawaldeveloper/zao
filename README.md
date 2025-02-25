@@ -104,7 +104,7 @@ If you have any questions, feel free to reach out or open an issue. Happy coding
 
 ---
 - **Talk to me**: [fix a meeting now](https://calendly.com/uyin/talk)
-- **GitHub**: [https://github.com/uy-in](https://github.com/uy-in)
-- **LinkedIn**: [https://www.linkedin.com/in/uyin](https://www.linkedin.com/in/uyin)
+- **GitHub**: [https://github.com/uy-in](https://github.com/ujjawaldeveloper)
+- **LinkedIn**: [https://www.linkedin.com/in/uyin](https://www.linkedin.com/in/ujjawaldeveloper)
 - **Email**: [uy2110101@gmail.com](mailto:uy2110101@gmail.com)
 ---
